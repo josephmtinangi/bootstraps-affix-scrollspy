@@ -29,7 +29,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  .affix-bottom {
 		    width: 263px;
 		  }
-		}			
+		}	
+		footer {
+			text-align: center;
+			padding-top: 30px;
+			padding-bottom: 30px;
+		}		
 	</style>
 </head>
 <body>
@@ -158,6 +163,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		</section>
 	</div>
+
+	<footer>
+		Copyright &copy; 2017 All Rights Reserved | Designed with <i class="fa fa-heart"></i> by <a href="https://about.me/josephmtinangi" title="Joseph Mtinangi">JM</a>
+	</footer>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
